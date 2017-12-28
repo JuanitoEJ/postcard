@@ -4,6 +4,7 @@ body {
 		font-family: 'Rock Salt', cursive;
 
 	}
+	/* JuanitoEJ/ Fonts= https://fonts.google.com/specimen/Rock+Salt*/
 h1{
 	font-size: 40px;
 }
@@ -20,7 +21,8 @@ h1{
 	}
 	.postcard-header{
 		
-		overflow: hidden;
+		overflow: hidden; /*JuanitoEJ/w3s/overflow propertThe overflow property specifies what happens 
+		if content overflows an element's box.*/
 	}
 	.postcard-header img{
 		max-width: : 80px;
